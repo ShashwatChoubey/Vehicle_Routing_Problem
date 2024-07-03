@@ -1,5 +1,6 @@
-In this project I develop a solution  for the Vehicle Routing Problem using genetic algorithms.
-I learned about DEAP libary and used  it in the project
-I also learned about Matplotlib.Employed Matplotlib for visualizing complex routing solutions, facilitating effective data communication and decision-making.
-It was my first Machine Learing Project and Introduction to genetic alogritms.I learn how to create Individual & Population for genetic algorithms.I also implement selection,crossover and mutation process in the 
-solution with the help of DEAP Libary.
+Project Description
+In this project, I developed a solution for the Vehicle Routing Problem using genetic algorithms.
+Key Learning:
+DEAP Library: I learned about the DEAP library and used it in the project for implementing genetic algorithms.
+Matplotlib: I also learned about Matplotlib and employed it for visualizing complex routing solutions, facilitating effective data communication and decision-making.
+Introduction to Genetic Algorithms: This was my first machine learning project and introduction to genetic algorithms. I learned how to create individuals and populations for genetic algorithms and implemented selection, crossover, and mutation processes with the help of the DEAP library.
